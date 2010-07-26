@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HTML-FormHandler-Email-Template.t
+lib/HTML/FormHandler/Email/Template.pm
