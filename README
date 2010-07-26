@@ -1,4 +1,4 @@
-HTML-FormHandler-Email-Template version 0.01001
+HTML-FormHandler-Email-Template version 0.01002
 ============================================
 
 This module allows you to easily and dynamically send templated emails from HTML::FormHandler forms.

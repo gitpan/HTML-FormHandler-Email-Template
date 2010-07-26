@@ -6,7 +6,7 @@ use Template;
 
 extends 'HTML::FormHandler::Email';
 
-our $VERSION = '0.01001';
+our $VERSION = '0.01002';
 
 augment 'build_body' => sub {
     my $self = shift;
